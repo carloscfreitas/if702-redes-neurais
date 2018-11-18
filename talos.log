@@ -1,0 +1,3 @@
+[0.3],[32],[64],[20],[<class keras.optimizers.SGD'>]','[<function mean_squared_error at 0x000001DB0CBB9AE8>]','[<function sigmoid at 0x000001DB0CC05048>]',0.328
+[0.3],[32],[64],[20],[<class keras.optimizers.SGD'>]','[<function mean_squared_error at 0x000001DB0CBB9AE8>]','[<function sigmoid at 0x000001DB0CC05048>]',0.312
+[0.3],[32],[64],[20],[<class keras.optimizers.SGD'>]','[<function mean_squared_error at 0x000001DB0CBB9AE8>]','[<function sigmoid at 0x000001DB0CC05048>]',0.301
