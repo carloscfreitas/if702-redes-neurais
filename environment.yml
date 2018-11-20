@@ -2,13 +2,13 @@ name: IF702-redes-neurais
 channels:
   - defaults
 dependencies:
-  - ca-certificates=2018.10.15
+  # - ca-certificates=2018.10.15
   - certifi=2018.10.15
-  - freetype=2.8.1
-  - grpcio=1.16.0
+  # - freetype=2.8.1
+  # - grpcio=1.16.0
   - hdf5=1.10.2
   - icu=58.2
-  - imbalanced-learn=0.4.3
+  # - imbalanced-learn=0.4.3
   - jpeg=9b
   - libgpuarray=0.7.6
   - libpng=1.6.34
@@ -17,14 +17,14 @@ dependencies:
   - markupsafe=1.1.0
   - matplotlib=2.2.2
   - mistune=0.8.4
-  - openssl=1.0.2p
+  # - openssl=1.1.1
   - protobuf=3.5.2
   - python=3.6.6
   - qt=5.6.2
-  - sqlite=3.22.0
+  # - sqlite=3.24.0
   - tensorboard=1.9.0
   - tensorflow=1.9.0
-  - vc=14
+  # - vc=14
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
@@ -40,7 +40,7 @@ dependencies:
   - entrypoints=0.2.3
   - gast=0.2.0
   - h5py=2.8.0
-  - icc_rt=2017.0.4
+  # - icc_rt=2017.0.4
   - intel-openmp=2019.0
   - ipykernel=5.1.0
   - ipython=7.1.1
@@ -58,14 +58,14 @@ dependencies:
   - keras-base=2.2.4
   - keras-preprocessing=1.0.5
   - kiwisolver=1.0.1
-  - libpython=2.1
+  # - libpython=2.1
   - mako=1.0.7
   - markdown=3.0.1
   - mkl=2019.0
   - mkl-service=1.1.2
   - mkl_fft=1.0.6
   - mkl_random=1.0.1
-  - msys2-conda-epoch=20160418
+  # - msys2-conda-epoch=20160418
   - nb_conda=2.2.1
   - nb_conda_kernels=2.2.0
   - nbconvert=5.3.1
@@ -87,7 +87,7 @@ dependencies:
   - pyqt=5.6.0
   - python-dateutil=2.7.5
   - pytz=2018.7
-  - pywinpty=0.5.4
+  # - pywinpty=0.5.4
   - pyyaml=3.13
   - pyzmq=17.1.2
   - qtconsole=4.4.2
@@ -104,14 +104,14 @@ dependencies:
   - theano=1.0.3
   - tornado=5.1.1
   - traitlets=4.3.2
-  - vs2015_runtime=14.15.26706
+  # - vs2015_runtime=14.15.26706
   - wcwidth=0.1.7
   - webencodings=0.5.1
   - werkzeug=0.14.1
   - wheel=0.32.2
   - widgetsnbextension=3.4.2
-  - wincertstore=0.2
-  - winpty=0.4.3
+  # - wincertstore=0.2
+  # - winpty=0.4.3
   - pip:
     - astetik==1.9.5
     - chances==0.1.1
